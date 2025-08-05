@@ -95,6 +95,69 @@ Unlike generic Salesforce bots or financial chat assistants:
 
 ---
 
+## ✨ Features at a Glance
+
+┌───────────────────────────────┬───────────────────────────────┐
+│       🏦 IDAM Expertise        │    ☁️ Salesforce FSC Mastery    │
+├───────────────────────────────┼───────────────────────────────┤
+│ • Advisor Engagement Models   │ • Custom Data Models & Flows  │
+│ • AUM Growth & ROI Analytics  │ • Apex, LWC, OmniStudio       │
+│ • ESG Reporting Automation    │ • API-led Integrations        │
+│ • Regulatory Compliance (SEC) │ • Einstein AI & Tableau CRM   │
+└───────────────────────────────┴───────────────────────────────┘
+┌───────────────────────────────┬───────────────────────────────┐
+│     🤖 AI & Predictive Sales   │   ⚙️ DevOps & Compliance-Driven │
+├───────────────────────────────┼───────────────────────────────┤
+│ • Predictive Wholesaler Scoring│ • CI/CD (Copado, Gearset)    │
+│ • Fund Flow Forecasting       │ • Secure Coding & Audit Trails│
+│ • GPT-Powered Advisor Bots    │ • GDPR/FINRA Compliance       │
+│ • ESG Sentiment Analysis      │ • Automated Testing Pipelines │
+└───────────────────────────────┴───────────────────────────────┘
+┌───────────────────────────────┬───────────────────────────────┐
+│   🧬 Emerging Tech & Trends    │   🧠 Human & Leadership Focus  │
+├───────────────────────────────┼───────────────────────────────┤
+│ • Blockchain & Tokenization   │ • Burnout Prevention          │
+│ • Embedded Finance Solutions  │ • Productivity Optimization   │
+│ • API-First Digital Platforms │ • Leadership & Emotional IQ   │
+│ • AI-Augmented Development    │ • Mental Health in Tech       │
+└───────────────────────────────┴───────────────────────────────┘
+
+===
+
+## 🏆 Skills Matrix
+
+| Domain                          | Strategy ✅ | Architecture ✅ | Development ✅ | Compliance ✅ | AI/ML ✅ |
+|---------------------------------|-------------|-----------------|---------------|---------------|----------|
+| 🏦 **IDAM (Asset Management)**   | ✅✅✅       | ✅✅             | ✅             | ✅✅✅         | ✅       |
+| ☁️ **Salesforce FSC**            | ✅✅         | ✅✅✅           | ✅✅✅         | ✅✅✅         | ✅✅✅     |
+| 🔗 **Ecosystem Integrations**    | ✅✅         | ✅✅✅           | ✅✅✅         | ✅             | ✅✅      |
+| ⚙️ **DevOps / CI/CD**            | ✅           | ✅✅             | ✅✅✅         | ✅✅✅         | ✅        |
+| 🔒 **Security & Compliance**     | ✅✅         | ✅✅             | ✅✅           | ✅✅✅         | ✅        |
+| 🤖 **AI & Advanced Analytics**   | ✅✅         | ✅✅✅           | ✅✅✅         | ✅             | ✅✅✅     |
+| 🧬 **Emerging Technologies**     | ✅✅         | ✅✅             | ✅✅           | ✅             | ✅✅      |
+| 🧠 **Mental Health & Leadership**| ✅✅✅       | ✅              | ✅             | ✅             | ✅        |
+
+## 🕸️ Jarvis Expertise Radar (Mermaid)
+
+```mermaid
+%%{init: {'theme':'neutral'}}%%
+radar
+    title Jarvis Skills Radar
+    axes
+        Strategy
+        Architecture
+        Development
+        Compliance
+        AI/ML
+    dataset
+        Jarvis
+        100
+        95
+        90
+        98
+        92
+```
+
 ## 🚀 **Example Use Case: IDAM + Salesforce + AI Flow**
 
 ```mermaid
@@ -103,3 +166,6 @@ flowchart TD
     B -->|Einstein AI Predicts| C[Advisor Engagement Scores]
     C -->|Automation| D[Lead Routing + Wholesaler Dashboards]
     D -->|Insights| E[Improved AUM Growth + ESG Adoption]
+
+```
+
