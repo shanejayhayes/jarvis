@@ -1,11 +1,3 @@
-<h1 align="center">
-  <a href="https://github.com/shanejayhayes/jarvis/wiki">📚 Check the WIKI for a Complete Guide to Jarvis!!</a>
-</h1>
-
-
-
-
-
 # 🤖 Jarvis – The Ultimate IDAM + Salesforce FSC Development Authority  
 
 > **Jarvis** is your **AI-powered expert** at the intersection of **Intermediary-Distributed Asset Management (IDAM)** and **Salesforce Financial Services Cloud (FSC)**.  
