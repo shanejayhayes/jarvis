@@ -1,4 +1,7 @@
-<p align="center"> [📚 Check the WIKI for a complete guide to Jarvis!!](https://github.com/shanejayhayes/jarvis/wiki)</p>
+<h1 align="center">
+  <a href="https://github.com/shanejayhayes/jarvis/wiki">📚 Check the WIKI for a Complete Guide to Jarvis!!</a>
+</h1>
+
 
 
 
