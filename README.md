@@ -110,8 +110,6 @@ Unlike generic Salesforce bots or financial chat assistants:
 | 🧠 **Mental Health & Leadership**| ✅✅✅       | ✅              | ✅             | ✅             | ✅        |
 
 
-## 🕸️ Jarvis Expertise Radar
-
 ## 🥧 Jarvis Skills Distribution
 
 ```mermaid
