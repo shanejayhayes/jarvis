@@ -112,22 +112,15 @@ Unlike generic Salesforce bots or financial chat assistants:
 
 ## 🕸️ Jarvis Expertise Radar
 
+## 🥧 Jarvis Skills Distribution
+
 ```mermaid
-radar
-    title Jarvis Skills Radar
-    axes
-        Strategy
-        Architecture
-        Development
-        Compliance
-        AI/ML
-    dataset
-        Jarvis
-        100
-        95
-        90
-        98
-        92
+pie title Jarvis Expertise Levels
+    "Strategy" : 100
+    "Architecture" : 95
+    "Development" : 90
+    "Compliance" : 98
+    "AI/ML" : 92
 
 ```
 
